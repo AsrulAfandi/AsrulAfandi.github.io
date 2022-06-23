@@ -1,0 +1,36 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 5rem;
+  background-color: rgb(107, 113, 220);
+}
+
+#projects {
+  background-color: #a2d9ff;
+}
+section {
+  padding-top: 5rem;
+}
+body {
+  background-color: rgb(45, 51, 90);
+  min-height: 900px;
+  background-size: cover;
+}
+
+h1 {
+  color: rgb(236, 202, 134);
+}
+
+h2 {
+  color: rgb(211, 158, 93);
+}
+
+a {
+  color: rgba(255, 255, 255, 0.393);
+}
+
+P {
+  color: rgb(139, 117, 93);
+  font-family: sans-serif;
+}
